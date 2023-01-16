@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bungkus {
+  background-image: url('./assets//coming-soon-01.jpg');
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+
+.cs-01-countdown .single-countdown__time {
+  /* font-si */
+}
+
+.test {
+  display: flex;
+  background-color: #2c4e4e;
+}
+
+.single-countdown {
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+  /* width: 100px; */
+  justify-content: center;
+  text-align: center;
+}
+
+.test2 {
+  display: flex;
+  margin-right: 10px;
+  font-size: 38px;
+  margin-bottom: 15px;
+  padding: 25px 0;
+  color: #2c4e4e;
+  /* border: 1px solid #cce0e1; */
+  border-radius: 10px;
+}
+
+.kata0kata {
+  font-size: 38px;
+  width: 50%;
+  color: #2c4e4e;
+}
+
+.single-countdown__text {
+  font-size: 20px;
+}
+
+.b-2 {
+  padding: 30px;
+  height: 100vh;
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  /* background-color: #2c4e4e; */
+}
